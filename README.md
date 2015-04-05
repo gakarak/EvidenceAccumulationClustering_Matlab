@@ -1,1 +1,2 @@
-# EvidenceAccumulationClustering_Matlab
+# Evidence Accumulation Clustering (Matlab implementation)
+
